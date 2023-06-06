@@ -1,3 +1,5 @@
+#!/bin/bash
+
 up() {
 
     echo "Starting Airbyte..."
